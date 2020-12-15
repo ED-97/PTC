@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\project\Model\depend\include\shader_m.h(44,40): warning C4101: “e”: 未引用的局部变量
+D:\project\Model\practice\main.cpp(231,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  practice.vcxproj -> D:\project\Model\x64\Debug\practice.exe
